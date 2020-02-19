@@ -65,7 +65,7 @@ const xlsxToJs = function () {
       const key = row['0'];
       data[key] = {};
       keyMap.forEach((k, i) => {
-        data[key][k] = row[i]
+        data[key][k] = row[i + 1]
       })
     }
   });

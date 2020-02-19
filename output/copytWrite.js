@@ -1,23 +1,18 @@
 // @ts-nocheck 
  window.copyWrite = {
-  "ke-111": {
-    "zh": "ke-111",
-    "en": "ke-111",
-    "desc": "这是标题"
+  "top-title": {
+    "zh": "这是顶部标题",
+    "en": "this is top titile",
+    "desc": "顶部标题"
   },
-  "ke-222": {
-    "zh": "ke-222",
-    "en": "ke-222",
-    "desc": "这是内容"
+  "content-text": {
+    "zh": "这是中部文本",
+    "en": "this is content text",
+    "desc": "中部文本"
   },
-  "ke-333": {
-    "zh": "ke-333",
-    "en": "ke-333",
-    "desc": "这是内容"
-  },
-  "ke-444": {
-    "zh": "ke-333",
-    "en": "ke-333",
-    "desc": "这是内容"
+  "content-text-3": {
+    "zh": "这是中部文本-3",
+    "en": "this is content text3",
+    "desc": "中部文本3"
   }
 }
