@@ -1,0 +1,17 @@
+{
+  "name": "node-i18n-excle",
+  "version": "1.0.0",
+  "main": "locale-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pull": "node ./locale/sync-locale-with-xlxs pull",
+    "push": "node ./locale/sync-locale-with-xlxs push_im_sure",
+    "help": "node ./locale/sync-locale-with-xlxs -h"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-xlsx": "^0.15.0"
+  }
+}
